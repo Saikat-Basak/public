@@ -33,10 +33,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://saikat-basak.github.io/sb/post/project-1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://saikat-basak.github.io/sb/post/project-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -58,6 +54,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://saikat-basak.github.io/sb/post/project-8/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://saikat-basak.github.io/sb/post/project-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
