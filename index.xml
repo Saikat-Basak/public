@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Saikat Basak</title>
+    <link>https://saikat-basak.github.io/sb_portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Saikat Basak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Apr 2018 11:00:59 -0400</lastBuildDate><atom:link href="https://saikat-basak.github.io/sb_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Housing in Brazil</title>
+      <link>https://saikat-basak.github.io/sb_portfolio/post/project-2/</link>
+      <pubDate>Tue, 10 Apr 2018 11:00:59 -0400</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb_portfolio/post/project-2/</guid>
+      <description>Worked with a dataset of homes for sale in Brazil. The goal is to determine if there are regional differences in the real estate market, and to look at southern Brazil to see if there is a relationship between home size and price.
+ Combined CSV files of real estate data from Brazil and cleaned the data for exploration. Used data visualization skills to explore more about the regional differences in the Brazilian real estate market.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Housing in Brazil</title>
+      <link>https://saikat-basak.github.io/sb_portfolio/post/project-1/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb_portfolio/post/project-1/</guid>
+      <description>Worked with a dataset of homes for sale in Brazil. The goal is to determine if there are regional differences in the real estate market, and to look at southern Brazil to see if there is a relationship between home size and price.
+ Combined CSV files of real estate data from Brazil and cleaned the data for exploration. Used data visualization skills to explore more about the regional differences in the Brazilian real estate market.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://saikat-basak.github.io/sb_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb_portfolio/about/</guid>
+      <description>Completed 20+ data science projects and having 3+ years of experience in analyzing student feedback, admission, registration data in my 8+ years teaching career. Proficient in predictive data modeling, data processing, and data mining algorithms to deliver insights and implement action-oriented solutions to complex data analytics problems. Expert in creating global and personalized real-time reports system for executives, stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://saikat-basak.github.io/sb_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb_portfolio/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
