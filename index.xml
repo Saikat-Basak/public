@@ -6,7 +6,16 @@
     <description>Recent content in Data Science Portfolio on Saikat Basak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://saikat-basak.github.io/sb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://saikat-basak.github.io/sb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build a Deep Learning Model to Predict whether a Borrower will Payback Loan or Not</title>
+      <link>https://saikat-basak.github.io/sb/post/project-10/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb/post/project-10/</guid>
+      <description>LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. The historical data on loans given out with information on whether or not the borrower defaulted (charge-off). The goal is to build a model that can predict whether or nor a borrower will pay back their loan.</description>
+    </item>
+    
     <item>
       <title>SpaceX Falcon 9 Rocket Launch, Rocket’s First Stage Landing Outcome and Cost Prediction</title>
       <link>https://saikat-basak.github.io/sb/post/project-9/</link>
@@ -14,6 +23,16 @@
       
       <guid>https://saikat-basak.github.io/sb/post/project-9/</guid>
       <description>Data collected from SpaceX Public API and SpaceX Wiki Page, and data processed by data collection API and web scraping. Exploratory Data Analysis (EDA) with data wrangling, data visualization Interactive Visual Analytics with Folium and interactive dashboards with Plotly Dash Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors machine learning models were used to predict the outcome.            Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning Model using Keras TensorFlow to Predict Breast Cancer</title>
+      <link>https://saikat-basak.github.io/sb/post/project-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb/post/project-12/</guid>
+      <description>Deep Learning model using Keras Tensorflow has been built to predict the breast cancer whether it is Malignant or Benign. UCI ML Breast Cancer Wisconsin (Diagnostic) datasets is used.
+ Exploratory Data Analysis: Get an understanding for which variables are important, view summary statistics, and visualize the data Created a binary classification model using Keras TensorFlow Adam optimizer has been used in this model Model performance has been evaluated.        Link to GitHub Repository</description>
     </item>
     
     <item>
@@ -115,6 +134,16 @@ GitHub</description>
       <guid>https://saikat-basak.github.io/sb/post/project-1/</guid>
       <description>Worked with a dataset of homes for sale in Brazil. The goal is to determine if there are regional differences in the real estate market, and to look at southern Brazil to see if there is a relationship between home size and price.
  Combined CSV files of real estate data from Brazil and cleaned the data for exploration. Used data visualization skills to explore more about the regional differences in the Brazilian real estate market.</description>
+    </item>
+    
+    <item>
+      <title>Using TensorFlow, House Sales Prediction in King County, USA</title>
+      <link>https://saikat-basak.github.io/sb/post/project-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb/post/project-11/</guid>
+      <description>The dataset contains house sale prices for King County, which includes Seattle. Deep Learning model is used to predict house price using regression.
+ Exploratory Data Analysis: Get an understanding for which variables are important, view summary statistics, and visualize the data Creating a model using TensorFlow Adam optimizer has been used in this model Evaluating the model performance          Link to GitHub Repository</description>
     </item>
     
   </channel>
