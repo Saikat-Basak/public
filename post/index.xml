@@ -6,7 +6,17 @@
     <description>Recent content in Projects on Saikat Basak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://saikat-basak.github.io/sb/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://saikat-basak.github.io/sb/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build A Model That Can Predict Whether a Company Will Go Bankrupt or Not</title>
+      <link>https://saikat-basak.github.io/sb/post/project-14/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb/post/project-14/</guid>
+      <description>In this project, I have explored data collected by a team of Polish economists studying bankruptcy. The goal is to build a model that can predict whether a company will go bankrupt or not.
+ Navigate a file system from the Linux command line Extract data that&amp;rsquo;s been stored in a JSON file. Address imbalanced data using resampling techniques Expand decision tree model into an entire forest (ensemble model) Use a grid search to tune hyperparameters; and create a function that loads data and a pre-trained model, and uses that model to generate a Series of predictions.</description>
+    </item>
+    
     <item>
       <title>Build a Deep Learning Model to Predict whether a Borrower will Payback Loan or Not</title>
       <link>https://saikat-basak.github.io/sb/post/project-10/</link>
@@ -102,6 +112,16 @@
       
       <guid>https://saikat-basak.github.io/sb/post/project-8/</guid>
       <description>In this project, data was collected from querying a SQL database. Data was explored and cleaned to build a classification model to predict building damage for the district of Kavrepalanchok. •	Wrote a wrangle function that create a &amp;ldquo;severe_damage&amp;rdquo; column, where all buildings with a damage grade greater than 3 should be encoded as 1. All other buildings should be encoded at 0, drop any columns that could cause issues with leakage or multicollinearity in your model.</description>
+    </item>
+    
+    <item>
+      <title>Predictive Model to Predict Bankruptcy of a Company in Taiwan</title>
+      <link>https://saikat-basak.github.io/sb/post/project-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saikat-basak.github.io/sb/post/project-13/</guid>
+      <description>In this project, I have explored data collected by a team of Taiwanese economists studying bankruptcy. The goal is to build a model that can predict whether a company will go bankrupt or not.
+ Data extracted from a JSON file. Load and save files using Python Explore some of the features of the dataset, use visualizations to help us understand those features, and develop a model that solves the problem of imbalanced data by under- and over-sampling.</description>
     </item>
     
     <item>
